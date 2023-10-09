@@ -33,13 +33,71 @@
 
 
 
-/*  .css  */
+/* 附加信息  */
+ #gallery,
+    #gallery-1,
+    #gallery-2,
+    #gallery-3,
+    #gallery-4,
+    #gallery-5,
+    #gallery-6,
+    #gallery-7,
+    #gallery-8,
+    #gallery-9,
+    #gallery-10 {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    #gallery a,
+    #gallery-1 a,
+    #gallery-2 a,
+    #gallery-3 a,
+    #gallery-4 a,
+    #gallery-5 a,
+    #gallery-6 a,
+    #gallery-7 a,
+    #gallery-8 a,
+    #gallery-9 a,
+    #gallery-10 a {
+        flex: 0 0 19%;
+        max-width: 200px;
+        margin: 10px;
+        text-decoration: none;
+    }
+
+    #gallery img,
+    #gallery-1 img,
+    #gallery-2 img,
+    #gallery-3 img,
+    #gallery-4 img,
+    #gallery-5 img,
+    #gallery-6 img,
+    #gallery-7 img,
+    #gallery-8 img,
+    #gallery-9 img,
+    #gallery-10 img {
+        width: 100%;
+        height: auto;
+    }
+
+    #gallery .lg-thumb-item,
+    #gallery-1 .lg-thumb-item,
+    #gallery-2 .lg-thumb-item,
+    #gallery-3 .lg-thumb-item,
+    #gallery-4 .lg-thumb-item,
+    #gallery-5 .lg-thumb-item,
+    #gallery-6 .lg-thumb-item,
+    #gallery-7 .lg-thumb-item,
+    #gallery-8 .lg-thumb-item,
+    #gallery-9 .lg-thumb-item,
+    #gallery-10 .lg-thumb-item {
+        float: none !important;
+        display: inline-block !important;
+        vertical-align: middle !important;
 
 
 
 
 /*  .css  */
-
-
-
-
