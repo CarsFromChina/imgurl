@@ -62,8 +62,8 @@
     #gallery-9 a,
     #gallery-10 a {
         flex: 0 0 19%;
-        max-width: 200px;
-        margin: 10px;
+        max-width: 195px;
+        margin: 5px;
         text-decoration: none;
     }
 
