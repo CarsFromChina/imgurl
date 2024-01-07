@@ -1,3 +1,6 @@
+.woocommerce-tabs .panel.entry-content {
+        max-width: none;
+    }
 .full-width-content {
   width: 100%;
   
