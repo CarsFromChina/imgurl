@@ -1,4 +1,7 @@
-//引入原文
+.full-width-content {
+  width: 100%;
+  
+  //引入原文
 
 #cx-nav-box .dh-header-main-nav {
 margin-bottom: 20px;
@@ -59,7 +62,7 @@ overflow: hidden;
 text-overflow: ellipsis;
 white-space: nowrap;
 }
-
+}
 
 //引入文件 peizhi-4fdef0ecb1.css
 
