@@ -1,8 +1,4 @@
-.woocommerce-tabs .panel.entry-content {
-        max-width: none;
-    }
-.full-width-content {
-  width: 100%;
+<style>.ycc-browser{width:100%;height:80px;background-color:#e0f3f7;text-align:center;display:none}.ycc-browser .ycc-browser-tip{display:inline-block;height:19px;font-size:14px;color:#333;vertical-align:top;margin-top:30px;margin-right:20px}.ycc-browser .ycc-browser-chrome-box,.ycc-browser .ycc-browser-firefox-box{display:inline-block;vertical-align:top;margin-top:14px;text-align:center}.ycc-browser .ycc-browser-chrome-box>em,.ycc-browser .ycc-browser-firefox-box>em{display:inline-block;width:40px;height:40px;background:url(//static1.bitautoimg.com/yc-pc/bitautoPC/static/images/sprites-top.png) -70px -75px no-repeat}.ycc-browser .ycc-browser-chrome-box span,.ycc-browser .ycc-browser-firefox-box span{display:block;height:20px;font-size:14px;line-height:20px;color:#666}.ycc-browser .ycc-browser-firefox-box{margin-left:15px}.ycc-browser .ycc-browser-firefox-box em{background:url(//static1.bitautoimg.com/yc-pc/bitautoPC/static/images/sprites-top.png) 0 -126px no-repeat}</style>
   
   //引入原文
 
@@ -65,7 +61,7 @@ overflow: hidden;
 text-overflow: ellipsis;
 white-space: nowrap;
 }
-}
+
 
 //引入文件 peizhi-4fdef0ecb1.css
 
